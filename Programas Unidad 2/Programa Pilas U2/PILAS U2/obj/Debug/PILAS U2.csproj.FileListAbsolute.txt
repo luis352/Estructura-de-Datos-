@@ -1,0 +1,21 @@
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 2\PILAS U2\bin\Debug\PILAS U2.exe.config
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 2\PILAS U2\bin\Debug\PILAS U2.exe
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 2\PILAS U2\bin\Debug\PILAS U2.pdb
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 2\PILAS U2\obj\Debug\PILAS U2.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 2\PILAS U2\obj\Debug\PILAS_U2.Form1.resources
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 2\PILAS U2\obj\Debug\PILAS_U2.Properties.Resources.resources
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 2\PILAS U2\obj\Debug\PILAS U2.csproj.GenerateResource.cache
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 2\PILAS U2\obj\Debug\PILAS U2.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 2\PILAS U2\obj\Debug\PILAS U2.exe
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 2\PILAS U2\obj\Debug\PILAS U2.pdb
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 2\Programa Pilas U2\PILAS U2\obj\Debug\PILAS U2.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 2\Programa Pilas U2\PILAS U2\obj\Debug\PILAS_U2.Form1.resources
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 2\Programa Pilas U2\PILAS U2\obj\Debug\PILAS_U2.Properties.Resources.resources
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 2\Programa Pilas U2\PILAS U2\obj\Debug\PILAS U2.csproj.GenerateResource.cache
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 2\Programa Pilas U2\PILAS U2\obj\Debug\PILAS U2.exe
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 2\Programa Pilas U2\PILAS U2\obj\Debug\PILAS U2.pdb
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 2\Programa Pilas U2\PILAS U2\obj\Debug\PILAS_U2.Resource1.resources
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 2\Programa Pilas U2\PILAS U2\obj\Debug\PILAS U2.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 2\Programa Pilas U2\PILAS U2\bin\Debug\PILAS U2.exe.config
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 2\Programa Pilas U2\PILAS U2\bin\Debug\PILAS U2.exe
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 2\Programa Pilas U2\PILAS U2\bin\Debug\PILAS U2.pdb

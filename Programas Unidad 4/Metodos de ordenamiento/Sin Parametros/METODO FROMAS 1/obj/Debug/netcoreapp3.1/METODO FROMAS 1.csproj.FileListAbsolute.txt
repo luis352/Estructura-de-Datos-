@@ -1,0 +1,45 @@
+C:\Users\krono\OneDrive\Escritorio\AVANCE METODO\METODO FROMAS 1\METODO FROMAS 1\bin\Debug\netcoreapp3.1\METODO FROMAS 1.exe
+C:\Users\krono\OneDrive\Escritorio\AVANCE METODO\METODO FROMAS 1\METODO FROMAS 1\bin\Debug\netcoreapp3.1\METODO FROMAS 1.deps.json
+C:\Users\krono\OneDrive\Escritorio\AVANCE METODO\METODO FROMAS 1\METODO FROMAS 1\bin\Debug\netcoreapp3.1\METODO FROMAS 1.runtimeconfig.json
+C:\Users\krono\OneDrive\Escritorio\AVANCE METODO\METODO FROMAS 1\METODO FROMAS 1\bin\Debug\netcoreapp3.1\METODO FROMAS 1.runtimeconfig.dev.json
+C:\Users\krono\OneDrive\Escritorio\AVANCE METODO\METODO FROMAS 1\METODO FROMAS 1\bin\Debug\netcoreapp3.1\METODO FROMAS 1.dll
+C:\Users\krono\OneDrive\Escritorio\AVANCE METODO\METODO FROMAS 1\METODO FROMAS 1\bin\Debug\netcoreapp3.1\METODO FROMAS 1.pdb
+C:\Users\krono\OneDrive\Escritorio\AVANCE METODO\METODO FROMAS 1\METODO FROMAS 1\obj\Debug\netcoreapp3.1\METODO FROMAS 1.csprojAssemblyReference.cache
+C:\Users\krono\OneDrive\Escritorio\AVANCE METODO\METODO FROMAS 1\METODO FROMAS 1\obj\Debug\netcoreapp3.1\METODO_FROMAS_1.Form1.resources
+C:\Users\krono\OneDrive\Escritorio\AVANCE METODO\METODO FROMAS 1\METODO FROMAS 1\obj\Debug\netcoreapp3.1\METODO FROMAS 1.csproj.GenerateResource.cache
+C:\Users\krono\OneDrive\Escritorio\AVANCE METODO\METODO FROMAS 1\METODO FROMAS 1\obj\Debug\netcoreapp3.1\METODO FROMAS 1.AssemblyInfoInputs.cache
+C:\Users\krono\OneDrive\Escritorio\AVANCE METODO\METODO FROMAS 1\METODO FROMAS 1\obj\Debug\netcoreapp3.1\METODO FROMAS 1.AssemblyInfo.cs
+C:\Users\krono\OneDrive\Escritorio\AVANCE METODO\METODO FROMAS 1\METODO FROMAS 1\obj\Debug\netcoreapp3.1\METODO FROMAS 1.csproj.CoreCompileInputs.cache
+C:\Users\krono\OneDrive\Escritorio\AVANCE METODO\METODO FROMAS 1\METODO FROMAS 1\obj\Debug\netcoreapp3.1\METODO FROMAS 1.dll
+C:\Users\krono\OneDrive\Escritorio\AVANCE METODO\METODO FROMAS 1\METODO FROMAS 1\obj\Debug\netcoreapp3.1\METODO FROMAS 1.pdb
+C:\Users\krono\OneDrive\Escritorio\AVANCE METODO\METODO FROMAS 1\METODO FROMAS 1\obj\Debug\netcoreapp3.1\METODO FROMAS 1.genruntimeconfig.cache
+C:\Users\krono\OneDrive\Escritorio\Todos los Metodos\METODO FROMAS 1\METODO FROMAS 1\bin\Debug\netcoreapp3.1\METODO FROMAS 1.exe
+C:\Users\krono\OneDrive\Escritorio\Todos los Metodos\METODO FROMAS 1\METODO FROMAS 1\bin\Debug\netcoreapp3.1\METODO FROMAS 1.deps.json
+C:\Users\krono\OneDrive\Escritorio\Todos los Metodos\METODO FROMAS 1\METODO FROMAS 1\bin\Debug\netcoreapp3.1\METODO FROMAS 1.runtimeconfig.json
+C:\Users\krono\OneDrive\Escritorio\Todos los Metodos\METODO FROMAS 1\METODO FROMAS 1\bin\Debug\netcoreapp3.1\METODO FROMAS 1.runtimeconfig.dev.json
+C:\Users\krono\OneDrive\Escritorio\Todos los Metodos\METODO FROMAS 1\METODO FROMAS 1\bin\Debug\netcoreapp3.1\METODO FROMAS 1.dll
+C:\Users\krono\OneDrive\Escritorio\Todos los Metodos\METODO FROMAS 1\METODO FROMAS 1\bin\Debug\netcoreapp3.1\METODO FROMAS 1.pdb
+C:\Users\krono\OneDrive\Escritorio\Todos los Metodos\METODO FROMAS 1\METODO FROMAS 1\obj\Debug\netcoreapp3.1\METODO FROMAS 1.csprojAssemblyReference.cache
+C:\Users\krono\OneDrive\Escritorio\Todos los Metodos\METODO FROMAS 1\METODO FROMAS 1\obj\Debug\netcoreapp3.1\METODO_FROMAS_1.Form1.resources
+C:\Users\krono\OneDrive\Escritorio\Todos los Metodos\METODO FROMAS 1\METODO FROMAS 1\obj\Debug\netcoreapp3.1\METODO FROMAS 1.csproj.GenerateResource.cache
+C:\Users\krono\OneDrive\Escritorio\Todos los Metodos\METODO FROMAS 1\METODO FROMAS 1\obj\Debug\netcoreapp3.1\METODO FROMAS 1.AssemblyInfoInputs.cache
+C:\Users\krono\OneDrive\Escritorio\Todos los Metodos\METODO FROMAS 1\METODO FROMAS 1\obj\Debug\netcoreapp3.1\METODO FROMAS 1.AssemblyInfo.cs
+C:\Users\krono\OneDrive\Escritorio\Todos los Metodos\METODO FROMAS 1\METODO FROMAS 1\obj\Debug\netcoreapp3.1\METODO FROMAS 1.csproj.CoreCompileInputs.cache
+C:\Users\krono\OneDrive\Escritorio\Todos los Metodos\METODO FROMAS 1\METODO FROMAS 1\obj\Debug\netcoreapp3.1\METODO FROMAS 1.dll
+C:\Users\krono\OneDrive\Escritorio\Todos los Metodos\METODO FROMAS 1\METODO FROMAS 1\obj\Debug\netcoreapp3.1\METODO FROMAS 1.pdb
+C:\Users\krono\OneDrive\Escritorio\Todos los Metodos\METODO FROMAS 1\METODO FROMAS 1\obj\Debug\netcoreapp3.1\METODO FROMAS 1.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Sin Parametros\METODO FROMAS 1\bin\Debug\netcoreapp3.1\METODO FROMAS 1.exe
+C:\Users\usuario\Desktop\Sin Parametros\METODO FROMAS 1\bin\Debug\netcoreapp3.1\METODO FROMAS 1.deps.json
+C:\Users\usuario\Desktop\Sin Parametros\METODO FROMAS 1\bin\Debug\netcoreapp3.1\METODO FROMAS 1.runtimeconfig.json
+C:\Users\usuario\Desktop\Sin Parametros\METODO FROMAS 1\bin\Debug\netcoreapp3.1\METODO FROMAS 1.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\Sin Parametros\METODO FROMAS 1\bin\Debug\netcoreapp3.1\METODO FROMAS 1.dll
+C:\Users\usuario\Desktop\Sin Parametros\METODO FROMAS 1\bin\Debug\netcoreapp3.1\METODO FROMAS 1.pdb
+C:\Users\usuario\Desktop\Sin Parametros\METODO FROMAS 1\obj\Debug\netcoreapp3.1\METODO FROMAS 1.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Sin Parametros\METODO FROMAS 1\obj\Debug\netcoreapp3.1\METODO_FROMAS_1.Form1.resources
+C:\Users\usuario\Desktop\Sin Parametros\METODO FROMAS 1\obj\Debug\netcoreapp3.1\METODO FROMAS 1.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Sin Parametros\METODO FROMAS 1\obj\Debug\netcoreapp3.1\METODO FROMAS 1.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Sin Parametros\METODO FROMAS 1\obj\Debug\netcoreapp3.1\METODO FROMAS 1.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Sin Parametros\METODO FROMAS 1\obj\Debug\netcoreapp3.1\METODO FROMAS 1.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Sin Parametros\METODO FROMAS 1\obj\Debug\netcoreapp3.1\METODO FROMAS 1.dll
+C:\Users\usuario\Desktop\Sin Parametros\METODO FROMAS 1\obj\Debug\netcoreapp3.1\METODO FROMAS 1.pdb
+C:\Users\usuario\Desktop\Sin Parametros\METODO FROMAS 1\obj\Debug\netcoreapp3.1\METODO FROMAS 1.genruntimeconfig.cache

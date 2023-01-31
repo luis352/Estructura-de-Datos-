@@ -1,0 +1,182 @@
+C:\Users\krono\OneDrive\Documentos\TEC\QUINTO SEMESTRE\ESTRUCTURA DE DATOS\PROGRAMAS\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.exe
+C:\Users\krono\OneDrive\Documentos\TEC\QUINTO SEMESTRE\ESTRUCTURA DE DATOS\PROGRAMAS\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.deps.json
+C:\Users\krono\OneDrive\Documentos\TEC\QUINTO SEMESTRE\ESTRUCTURA DE DATOS\PROGRAMAS\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.runtimeconfig.json
+C:\Users\krono\OneDrive\Documentos\TEC\QUINTO SEMESTRE\ESTRUCTURA DE DATOS\PROGRAMAS\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.runtimeconfig.dev.json
+C:\Users\krono\OneDrive\Documentos\TEC\QUINTO SEMESTRE\ESTRUCTURA DE DATOS\PROGRAMAS\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.dll
+C:\Users\krono\OneDrive\Documentos\TEC\QUINTO SEMESTRE\ESTRUCTURA DE DATOS\PROGRAMAS\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.pdb
+C:\Users\krono\OneDrive\Documentos\TEC\QUINTO SEMESTRE\ESTRUCTURA DE DATOS\PROGRAMAS\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csprojAssemblyReference.cache
+C:\Users\krono\OneDrive\Documentos\TEC\QUINTO SEMESTRE\ESTRUCTURA DE DATOS\PROGRAMAS\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas_Publicas_de_Nuevo_Laredo.frmPlazaPublica.resources
+C:\Users\krono\OneDrive\Documentos\TEC\QUINTO SEMESTRE\ESTRUCTURA DE DATOS\PROGRAMAS\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csproj.GenerateResource.cache
+C:\Users\krono\OneDrive\Documentos\TEC\QUINTO SEMESTRE\ESTRUCTURA DE DATOS\PROGRAMAS\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.AssemblyInfoInputs.cache
+C:\Users\krono\OneDrive\Documentos\TEC\QUINTO SEMESTRE\ESTRUCTURA DE DATOS\PROGRAMAS\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.AssemblyInfo.cs
+C:\Users\krono\OneDrive\Documentos\TEC\QUINTO SEMESTRE\ESTRUCTURA DE DATOS\PROGRAMAS\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csproj.CoreCompileInputs.cache
+C:\Users\krono\OneDrive\Documentos\TEC\QUINTO SEMESTRE\ESTRUCTURA DE DATOS\PROGRAMAS\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.dll
+C:\Users\krono\OneDrive\Documentos\TEC\QUINTO SEMESTRE\ESTRUCTURA DE DATOS\PROGRAMAS\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.pdb
+C:\Users\krono\OneDrive\Documentos\TEC\QUINTO SEMESTRE\ESTRUCTURA DE DATOS\PROGRAMAS\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.genruntimeconfig.cache
+C:\Users\krono\OneDrive\Escritorio\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.exe
+C:\Users\krono\OneDrive\Escritorio\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.deps.json
+C:\Users\krono\OneDrive\Escritorio\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.runtimeconfig.json
+C:\Users\krono\OneDrive\Escritorio\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.runtimeconfig.dev.json
+C:\Users\krono\OneDrive\Escritorio\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.dll
+C:\Users\krono\OneDrive\Escritorio\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.pdb
+C:\Users\krono\OneDrive\Escritorio\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas_Publicas_de_Nuevo_Laredo.frmPlazaPublica.resources
+C:\Users\krono\OneDrive\Escritorio\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csproj.GenerateResource.cache
+C:\Users\krono\OneDrive\Escritorio\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.AssemblyInfoInputs.cache
+C:\Users\krono\OneDrive\Escritorio\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.AssemblyInfo.cs
+C:\Users\krono\OneDrive\Escritorio\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csproj.CoreCompileInputs.cache
+C:\Users\krono\OneDrive\Escritorio\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.dll
+C:\Users\krono\OneDrive\Escritorio\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.pdb
+C:\Users\krono\OneDrive\Escritorio\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.genruntimeconfig.cache
+C:\Users\krono\Downloads\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.exe
+C:\Users\krono\Downloads\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.deps.json
+C:\Users\krono\Downloads\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.runtimeconfig.json
+C:\Users\krono\Downloads\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.runtimeconfig.dev.json
+C:\Users\krono\Downloads\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.dll
+C:\Users\krono\Downloads\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.pdb
+C:\Users\krono\Downloads\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csprojAssemblyReference.cache
+C:\Users\krono\Downloads\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas_Publicas_de_Nuevo_Laredo.frmPlazaPublica.resources
+C:\Users\krono\Downloads\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csproj.GenerateResource.cache
+C:\Users\krono\Downloads\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.AssemblyInfoInputs.cache
+C:\Users\krono\Downloads\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.AssemblyInfo.cs
+C:\Users\krono\Downloads\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csproj.CoreCompileInputs.cache
+C:\Users\krono\Downloads\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.dll
+C:\Users\krono\Downloads\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.pdb
+C:\Users\krono\Downloads\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.genruntimeconfig.cache
+C:\Users\krono\Downloads\sdfsdf\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.exe
+C:\Users\krono\Downloads\sdfsdf\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.deps.json
+C:\Users\krono\Downloads\sdfsdf\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.runtimeconfig.json
+C:\Users\krono\Downloads\sdfsdf\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.runtimeconfig.dev.json
+C:\Users\krono\Downloads\sdfsdf\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.dll
+C:\Users\krono\Downloads\sdfsdf\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.pdb
+C:\Users\krono\Downloads\sdfsdf\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csprojAssemblyReference.cache
+C:\Users\krono\Downloads\sdfsdf\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas_Publicas_de_Nuevo_Laredo.frmPlazaPublica.resources
+C:\Users\krono\Downloads\sdfsdf\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas_Publicas_de_Nuevo_Laredo.Resource1.resources
+C:\Users\krono\Downloads\sdfsdf\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csproj.GenerateResource.cache
+C:\Users\krono\Downloads\sdfsdf\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.AssemblyInfoInputs.cache
+C:\Users\krono\Downloads\sdfsdf\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.AssemblyInfo.cs
+C:\Users\krono\Downloads\sdfsdf\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csproj.CoreCompileInputs.cache
+C:\Users\krono\Downloads\sdfsdf\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.dll
+C:\Users\krono\Downloads\sdfsdf\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.pdb
+C:\Users\krono\Downloads\sdfsdf\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.genruntimeconfig.cache
+C:\Users\krono\OneDrive\Escritorio\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas_Publicas_de_Nuevo_Laredo.Resource1.resources
+C:\Users\pacoe\Downloads\Dominiq\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.exe
+C:\Users\pacoe\Downloads\Dominiq\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.deps.json
+C:\Users\pacoe\Downloads\Dominiq\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.runtimeconfig.json
+C:\Users\pacoe\Downloads\Dominiq\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.runtimeconfig.dev.json
+C:\Users\pacoe\Downloads\Dominiq\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.dll
+C:\Users\pacoe\Downloads\Dominiq\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.pdb
+C:\Users\pacoe\Downloads\Dominiq\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csproj.AssemblyReference.cache
+C:\Users\pacoe\Downloads\Dominiq\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas_Publicas_de_Nuevo_Laredo.frmPlazaPublica.resources
+C:\Users\pacoe\Downloads\Dominiq\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas_Publicas_de_Nuevo_Laredo.Resource1.resources
+C:\Users\pacoe\Downloads\Dominiq\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csproj.GenerateResource.cache
+C:\Users\pacoe\Downloads\Dominiq\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pacoe\Downloads\Dominiq\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.AssemblyInfoInputs.cache
+C:\Users\pacoe\Downloads\Dominiq\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.AssemblyInfo.cs
+C:\Users\pacoe\Downloads\Dominiq\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csproj.CoreCompileInputs.cache
+C:\Users\pacoe\Downloads\Dominiq\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.dll
+C:\Users\pacoe\Downloads\Dominiq\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.pdb
+C:\Users\pacoe\Downloads\Dominiq\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.genruntimeconfig.cache
+C:\Users\krono\OneDrive\Escritorio\bnvbn\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.exe
+C:\Users\krono\OneDrive\Escritorio\bnvbn\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.deps.json
+C:\Users\krono\OneDrive\Escritorio\bnvbn\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.runtimeconfig.json
+C:\Users\krono\OneDrive\Escritorio\bnvbn\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.runtimeconfig.dev.json
+C:\Users\krono\OneDrive\Escritorio\bnvbn\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.dll
+C:\Users\krono\OneDrive\Escritorio\bnvbn\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.pdb
+C:\Users\krono\OneDrive\Escritorio\bnvbn\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csprojAssemblyReference.cache
+C:\Users\krono\OneDrive\Escritorio\bnvbn\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas_Publicas_de_Nuevo_Laredo.frmPlazaPublica.resources
+C:\Users\krono\OneDrive\Escritorio\bnvbn\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas_Publicas_de_Nuevo_Laredo.Resource1.resources
+C:\Users\krono\OneDrive\Escritorio\bnvbn\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csproj.GenerateResource.cache
+C:\Users\krono\OneDrive\Escritorio\bnvbn\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.AssemblyInfoInputs.cache
+C:\Users\krono\OneDrive\Escritorio\bnvbn\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.AssemblyInfo.cs
+C:\Users\krono\OneDrive\Escritorio\bnvbn\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csproj.CoreCompileInputs.cache
+C:\Users\krono\OneDrive\Escritorio\bnvbn\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.dll
+C:\Users\krono\OneDrive\Escritorio\bnvbn\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.pdb
+C:\Users\krono\OneDrive\Escritorio\bnvbn\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.genruntimeconfig.cache
+C:\Users\krono\OneDrive\Escritorio\bnvbn\MAMEY\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas_Publicas_de_Nuevo_Laredo.Properties.Resources.resources
+C:\Users\krono\OneDrive\Escritorio\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csprojAssemblyReference.cache
+C:\Users\krono\OneDrive\Escritorio\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas_Publicas_de_Nuevo_Laredo.Properties.Resources.resources
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.exe
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.deps.json
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.runtimeconfig.json
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.runtimeconfig.dev.json
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.dll
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.pdb
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csprojAssemblyReference.cache
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas_Publicas_de_Nuevo_Laredo.frmPlazaPublica.resources
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas_Publicas_de_Nuevo_Laredo.Properties.Resources.resources
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas_Publicas_de_Nuevo_Laredo.Resource1.resources
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csproj.GenerateResource.cache
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.AssemblyInfoInputs.cache
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.AssemblyInfo.cs
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csproj.CoreCompileInputs.cache
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.dll
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.pdb
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.genruntimeconfig.cache
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\REPLICA SIMPLE\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.exe
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\REPLICA SIMPLE\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.deps.json
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\REPLICA SIMPLE\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.runtimeconfig.json
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\REPLICA SIMPLE\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.runtimeconfig.dev.json
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\REPLICA SIMPLE\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.dll
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\REPLICA SIMPLE\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.pdb
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\REPLICA SIMPLE\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas_Publicas_de_Nuevo_Laredo.frmPlazaPublica.resources
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\REPLICA SIMPLE\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas_Publicas_de_Nuevo_Laredo.Properties.Resources.resources
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\REPLICA SIMPLE\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas_Publicas_de_Nuevo_Laredo.Resource1.resources
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\REPLICA SIMPLE\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csproj.GenerateResource.cache
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\REPLICA SIMPLE\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.AssemblyInfoInputs.cache
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\REPLICA SIMPLE\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.AssemblyInfo.cs
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\REPLICA SIMPLE\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csproj.CoreCompileInputs.cache
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\REPLICA SIMPLE\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.dll
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\REPLICA SIMPLE\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.pdb
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\REPLICA SIMPLE\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.genruntimeconfig.cache
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\Pilas\REPLICA SIMPLE\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csprojAssemblyReference.cache
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\PROGRAMA PRUEBA\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.exe
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\PROGRAMA PRUEBA\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.deps.json
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\PROGRAMA PRUEBA\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.runtimeconfig.json
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\PROGRAMA PRUEBA\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.runtimeconfig.dev.json
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\PROGRAMA PRUEBA\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.dll
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\PROGRAMA PRUEBA\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.pdb
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\PROGRAMA PRUEBA\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csprojAssemblyReference.cache
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\PROGRAMA PRUEBA\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas_Publicas_de_Nuevo_Laredo.frmPlazaPublica.resources
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\PROGRAMA PRUEBA\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas_Publicas_de_Nuevo_Laredo.Properties.Resources.resources
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\PROGRAMA PRUEBA\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas_Publicas_de_Nuevo_Laredo.Resource1.resources
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\PROGRAMA PRUEBA\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csproj.GenerateResource.cache
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\PROGRAMA PRUEBA\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.AssemblyInfoInputs.cache
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\PROGRAMA PRUEBA\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.AssemblyInfo.cs
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\PROGRAMA PRUEBA\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csproj.CoreCompileInputs.cache
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\PROGRAMA PRUEBA\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.dll
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\PROGRAMA PRUEBA\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.pdb
+C:\Users\krono\OneDrive\Escritorio\PROGRAMAS MIOS\PROGRAMA PRUEBA\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.exe
+C:\Users\usuario\Desktop\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.deps.json
+C:\Users\usuario\Desktop\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.runtimeconfig.json
+C:\Users\usuario\Desktop\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.dll
+C:\Users\usuario\Desktop\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.pdb
+C:\Users\usuario\Desktop\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas_Publicas_de_Nuevo_Laredo.frmPlazaPublica.resources
+C:\Users\usuario\Desktop\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas_Publicas_de_Nuevo_Laredo.Properties.Resources.resources
+C:\Users\usuario\Desktop\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas_Publicas_de_Nuevo_Laredo.Resource1.resources
+C:\Users\usuario\Desktop\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.dll
+C:\Users\usuario\Desktop\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.pdb
+C:\Users\usuario\Desktop\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.genruntimeconfig.cache
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.exe
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.deps.json
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.runtimeconfig.json
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.runtimeconfig.dev.json
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.dll
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\bin\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.pdb
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas_Publicas_de_Nuevo_Laredo.frmPlazaPublica.resources
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas_Publicas_de_Nuevo_Laredo.Properties.Resources.resources
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas_Publicas_de_Nuevo_Laredo.Resource1.resources
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csproj.GenerateResource.cache
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.AssemblyInfo.cs
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.dll
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.pdb
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo\obj\Debug\netcoreapp3.1\Plazas Publicas de Nuevo Laredo.genruntimeconfig.cache

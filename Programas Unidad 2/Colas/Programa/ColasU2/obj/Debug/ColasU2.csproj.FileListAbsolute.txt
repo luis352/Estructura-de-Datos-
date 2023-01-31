@@ -1,0 +1,11 @@
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 2\Colas\Programa\ColasU2\bin\Debug\ColasU2.exe.config
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 2\Colas\Programa\ColasU2\bin\Debug\ColasU2.exe
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 2\Colas\Programa\ColasU2\bin\Debug\ColasU2.pdb
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 2\Colas\Programa\ColasU2\obj\Debug\ColasU2.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 2\Colas\Programa\ColasU2\obj\Debug\ColasU2.Form1.resources
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 2\Colas\Programa\ColasU2\obj\Debug\ColasU2.Properties.Resources.resources
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 2\Colas\Programa\ColasU2\obj\Debug\ColasU2.csproj.GenerateResource.cache
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 2\Colas\Programa\ColasU2\obj\Debug\ColasU2.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 2\Colas\Programa\ColasU2\obj\Debug\ColasU2.exe
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 2\Colas\Programa\ColasU2\obj\Debug\ColasU2.pdb
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 2\Colas\Programa\ColasU2\obj\Debug\ColasU2.Resource1.resources

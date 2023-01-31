@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plazas Publicas de Nuevo Laredo", "Plazas Publicas de Nuevo Laredo\Plazas Publicas de Nuevo Laredo.csproj", "{EA6E8F65-2C92-4218-9F7F-EF88CFEC6015}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA6E8F65-2C92-4218-9F7F-EF88CFEC6015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6E8F65-2C92-4218-9F7F-EF88CFEC6015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA6E8F65-2C92-4218-9F7F-EF88CFEC6015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6E8F65-2C92-4218-9F7F-EF88CFEC6015}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6737C0CE-8C21-461E-A0F0-665C6BC236DE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+C:\Users\cheno\source\repos\ArbolBinarioBusqueda - Motocicleta\ArbolBinarioBusqueda - Motocicleta\bin\Debug\ArbolBinarioBusqueda - Motocicleta.exe.config
+C:\Users\cheno\source\repos\ArbolBinarioBusqueda - Motocicleta\ArbolBinarioBusqueda - Motocicleta\bin\Debug\ArbolBinarioBusqueda - Motocicleta.exe
+C:\Users\cheno\source\repos\ArbolBinarioBusqueda - Motocicleta\ArbolBinarioBusqueda - Motocicleta\bin\Debug\ArbolBinarioBusqueda - Motocicleta.pdb
+C:\Users\cheno\source\repos\ArbolBinarioBusqueda - Motocicleta\ArbolBinarioBusqueda - Motocicleta\obj\Debug\ArbolBinarioBusqueda - Motocicleta.csproj.AssemblyReference.cache
+C:\Users\cheno\source\repos\ArbolBinarioBusqueda - Motocicleta\ArbolBinarioBusqueda - Motocicleta\obj\Debug\ArbolBinarioBusqueda___Motocicleta.Form1.resources
+C:\Users\cheno\source\repos\ArbolBinarioBusqueda - Motocicleta\ArbolBinarioBusqueda - Motocicleta\obj\Debug\ArbolBinarioBusqueda___Motocicleta.Properties.Resources.resources
+C:\Users\cheno\source\repos\ArbolBinarioBusqueda - Motocicleta\ArbolBinarioBusqueda - Motocicleta\obj\Debug\ArbolBinarioBusqueda - Motocicleta.csproj.GenerateResource.cache
+C:\Users\cheno\source\repos\ArbolBinarioBusqueda - Motocicleta\ArbolBinarioBusqueda - Motocicleta\obj\Debug\ArbolBinarioBusqueda - Motocicleta.csproj.CoreCompileInputs.cache
+C:\Users\cheno\source\repos\ArbolBinarioBusqueda - Motocicleta\ArbolBinarioBusqueda - Motocicleta\obj\Debug\ArbolBinarioBusqueda - Motocicleta.exe
+C:\Users\cheno\source\repos\ArbolBinarioBusqueda - Motocicleta\ArbolBinarioBusqueda - Motocicleta\obj\Debug\ArbolBinarioBusqueda - Motocicleta.pdb
+C:\Users\usuario\Desktop\ArbolBinarioBusqueda - Motocicleta\ArbolBinarioBusqueda - Motocicleta\bin\Debug\ArbolBinarioBusqueda - Motocicleta.exe.config
+C:\Users\usuario\Desktop\ArbolBinarioBusqueda - Motocicleta\ArbolBinarioBusqueda - Motocicleta\bin\Debug\ArbolBinarioBusqueda - Motocicleta.exe
+C:\Users\usuario\Desktop\ArbolBinarioBusqueda - Motocicleta\ArbolBinarioBusqueda - Motocicleta\bin\Debug\ArbolBinarioBusqueda - Motocicleta.pdb
+C:\Users\usuario\Desktop\ArbolBinarioBusqueda - Motocicleta\ArbolBinarioBusqueda - Motocicleta\obj\Debug\ArbolBinarioBusqueda - Motocicleta.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\ArbolBinarioBusqueda - Motocicleta\ArbolBinarioBusqueda - Motocicleta\obj\Debug\ArbolBinarioBusqueda___Motocicleta.Form1.resources
+C:\Users\usuario\Desktop\ArbolBinarioBusqueda - Motocicleta\ArbolBinarioBusqueda - Motocicleta\obj\Debug\ArbolBinarioBusqueda___Motocicleta.Properties.Resources.resources
+C:\Users\usuario\Desktop\ArbolBinarioBusqueda - Motocicleta\ArbolBinarioBusqueda - Motocicleta\obj\Debug\ArbolBinarioBusqueda - Motocicleta.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\ArbolBinarioBusqueda - Motocicleta\ArbolBinarioBusqueda - Motocicleta\obj\Debug\ArbolBinarioBusqueda - Motocicleta.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ArbolBinarioBusqueda - Motocicleta\ArbolBinarioBusqueda - Motocicleta\obj\Debug\ArbolBinarioBusqueda - Motocicleta.exe
+C:\Users\usuario\Desktop\ArbolBinarioBusqueda - Motocicleta\ArbolBinarioBusqueda - Motocicleta\obj\Debug\ArbolBinarioBusqueda - Motocicleta.pdb

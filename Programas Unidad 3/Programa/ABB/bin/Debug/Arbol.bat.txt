@@ -1,0 +1,3 @@
+@echo off
+del Figura.jpg
+dot -Tjpg Arbol.dot -o Figura.jpg

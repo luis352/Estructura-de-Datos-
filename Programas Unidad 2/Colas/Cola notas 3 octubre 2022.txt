@@ -1,0 +1,25 @@
+Colas 
+
+Frente es el que esta mas cerca de la puerta de salida 
+
+El Final la puerta de entrada 
+
+los datos entran por el final, pero los eliminas por el frente 
+
+Fifo el primero que entra es el primer atentido 
+Lilo el ultimo en entrar es el ultimo atendido 
+
+
+Situaiones criticas 
+Encolar 
+Alta a cola vacia 
+alta al final- se inserta el dato al final de la cola 
+no permitir duplicados 
+
+
+
+Agregar atributo y propiedad para almacenar la fecha y hora de entrada ala cola 
+_dtmHora entrada: DateTime 
+. Hora entrada 
+
+metodo Calcular Tiempo que dice el tiempo que estuvo en la cola 

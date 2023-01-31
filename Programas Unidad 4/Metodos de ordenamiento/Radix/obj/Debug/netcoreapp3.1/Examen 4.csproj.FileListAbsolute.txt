@@ -1,0 +1,60 @@
+C:\Users\usuario\Desktop\Examen 4\bin\Debug\netcoreapp3.1\Examen 4.exe
+C:\Users\usuario\Desktop\Examen 4\bin\Debug\netcoreapp3.1\Examen 4.deps.json
+C:\Users\usuario\Desktop\Examen 4\bin\Debug\netcoreapp3.1\Examen 4.runtimeconfig.json
+C:\Users\usuario\Desktop\Examen 4\bin\Debug\netcoreapp3.1\Examen 4.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\Examen 4\bin\Debug\netcoreapp3.1\Examen 4.dll
+C:\Users\usuario\Desktop\Examen 4\bin\Debug\netcoreapp3.1\Examen 4.pdb
+C:\Users\usuario\Desktop\Examen 4\obj\Debug\netcoreapp3.1\Examen 4.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Examen 4\obj\Debug\netcoreapp3.1\Examen_4.Form1.resources
+C:\Users\usuario\Desktop\Examen 4\obj\Debug\netcoreapp3.1\Examen 4.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Examen 4\obj\Debug\netcoreapp3.1\Examen 4.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Examen 4\obj\Debug\netcoreapp3.1\Examen 4.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Examen 4\obj\Debug\netcoreapp3.1\Examen 4.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Examen 4\obj\Debug\netcoreapp3.1\Examen 4.dll
+C:\Users\usuario\Desktop\Examen 4\obj\Debug\netcoreapp3.1\Examen 4.pdb
+C:\Users\usuario\Desktop\Examen 4\obj\Debug\netcoreapp3.1\Examen 4.genruntimeconfig.cache
+C:\Users\usuario\Desktop\quick sort\bin\Debug\netcoreapp3.1\Examen 4.exe
+C:\Users\usuario\Desktop\quick sort\bin\Debug\netcoreapp3.1\Examen 4.deps.json
+C:\Users\usuario\Desktop\quick sort\bin\Debug\netcoreapp3.1\Examen 4.runtimeconfig.json
+C:\Users\usuario\Desktop\quick sort\bin\Debug\netcoreapp3.1\Examen 4.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\quick sort\bin\Debug\netcoreapp3.1\Examen 4.dll
+C:\Users\usuario\Desktop\quick sort\bin\Debug\netcoreapp3.1\Examen 4.pdb
+C:\Users\usuario\Desktop\quick sort\obj\Debug\netcoreapp3.1\Examen 4.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\quick sort\obj\Debug\netcoreapp3.1\Examen_4.Form1.resources
+C:\Users\usuario\Desktop\quick sort\obj\Debug\netcoreapp3.1\Examen 4.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\quick sort\obj\Debug\netcoreapp3.1\Examen 4.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\quick sort\obj\Debug\netcoreapp3.1\Examen 4.AssemblyInfo.cs
+C:\Users\usuario\Desktop\quick sort\obj\Debug\netcoreapp3.1\Examen 4.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\quick sort\obj\Debug\netcoreapp3.1\Examen 4.dll
+C:\Users\usuario\Desktop\quick sort\obj\Debug\netcoreapp3.1\Examen 4.pdb
+C:\Users\usuario\Desktop\quick sort\obj\Debug\netcoreapp3.1\Examen 4.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Radix\obj\Debug\netcoreapp3.1\Examen 4.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Radix\obj\Debug\netcoreapp3.1\Examen_4.Form1.resources
+C:\Users\usuario\Desktop\Radix\obj\Debug\netcoreapp3.1\Examen 4.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Radix\obj\Debug\netcoreapp3.1\Examen 4.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Radix\obj\Debug\netcoreapp3.1\Examen 4.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Radix\obj\Debug\netcoreapp3.1\Examen 4.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Radix\obj\Debug\netcoreapp3.1\Examen 4.dll
+C:\Users\usuario\Desktop\Radix\obj\Debug\netcoreapp3.1\Examen 4.pdb
+C:\Users\usuario\Desktop\Radix\bin\Debug\netcoreapp3.1\Examen 4.exe
+C:\Users\usuario\Desktop\Radix\bin\Debug\netcoreapp3.1\Examen 4.deps.json
+C:\Users\usuario\Desktop\Radix\bin\Debug\netcoreapp3.1\Examen 4.runtimeconfig.json
+C:\Users\usuario\Desktop\Radix\bin\Debug\netcoreapp3.1\Examen 4.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\Radix\bin\Debug\netcoreapp3.1\Examen 4.dll
+C:\Users\usuario\Desktop\Radix\bin\Debug\netcoreapp3.1\Examen 4.pdb
+C:\Users\usuario\Desktop\Radix\obj\Debug\netcoreapp3.1\Examen 4.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Metodos de ordenamiento\Radix\bin\Debug\netcoreapp3.1\Examen 4.exe
+C:\Users\usuario\Desktop\Metodos de ordenamiento\Radix\bin\Debug\netcoreapp3.1\Examen 4.deps.json
+C:\Users\usuario\Desktop\Metodos de ordenamiento\Radix\bin\Debug\netcoreapp3.1\Examen 4.runtimeconfig.json
+C:\Users\usuario\Desktop\Metodos de ordenamiento\Radix\bin\Debug\netcoreapp3.1\Examen 4.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\Metodos de ordenamiento\Radix\bin\Debug\netcoreapp3.1\Examen 4.dll
+C:\Users\usuario\Desktop\Metodos de ordenamiento\Radix\bin\Debug\netcoreapp3.1\Examen 4.pdb
+C:\Users\usuario\Desktop\Metodos de ordenamiento\Radix\obj\Debug\netcoreapp3.1\Examen 4.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Metodos de ordenamiento\Radix\obj\Debug\netcoreapp3.1\Examen_4.Form1.resources
+C:\Users\usuario\Desktop\Metodos de ordenamiento\Radix\obj\Debug\netcoreapp3.1\Examen 4.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Metodos de ordenamiento\Radix\obj\Debug\netcoreapp3.1\Examen 4.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Metodos de ordenamiento\Radix\obj\Debug\netcoreapp3.1\Examen 4.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Metodos de ordenamiento\Radix\obj\Debug\netcoreapp3.1\Examen 4.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Metodos de ordenamiento\Radix\obj\Debug\netcoreapp3.1\Examen 4.dll
+C:\Users\usuario\Desktop\Metodos de ordenamiento\Radix\obj\Debug\netcoreapp3.1\Examen 4.pdb
+C:\Users\usuario\Desktop\Metodos de ordenamiento\Radix\obj\Debug\netcoreapp3.1\Examen 4.genruntimeconfig.cache

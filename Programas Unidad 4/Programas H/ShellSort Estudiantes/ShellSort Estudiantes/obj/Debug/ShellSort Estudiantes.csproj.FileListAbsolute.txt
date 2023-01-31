@@ -1,0 +1,30 @@
+C:\Users\cheno\source\repos\ShellSort Estudiantes\ShellSort Estudiantes\bin\Debug\ShellSort Estudiantes.exe.config
+C:\Users\cheno\source\repos\ShellSort Estudiantes\ShellSort Estudiantes\bin\Debug\ShellSort Estudiantes.exe
+C:\Users\cheno\source\repos\ShellSort Estudiantes\ShellSort Estudiantes\bin\Debug\ShellSort Estudiantes.pdb
+C:\Users\cheno\source\repos\ShellSort Estudiantes\ShellSort Estudiantes\obj\Debug\ShellSort Estudiantes.csproj.AssemblyReference.cache
+C:\Users\cheno\source\repos\ShellSort Estudiantes\ShellSort Estudiantes\obj\Debug\ShellSort_Estudiantes.Form1.resources
+C:\Users\cheno\source\repos\ShellSort Estudiantes\ShellSort Estudiantes\obj\Debug\ShellSort_Estudiantes.Properties.Resources.resources
+C:\Users\cheno\source\repos\ShellSort Estudiantes\ShellSort Estudiantes\obj\Debug\ShellSort Estudiantes.csproj.GenerateResource.cache
+C:\Users\cheno\source\repos\ShellSort Estudiantes\ShellSort Estudiantes\obj\Debug\ShellSort Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\cheno\source\repos\ShellSort Estudiantes\ShellSort Estudiantes\obj\Debug\ShellSort Estudiantes.exe
+C:\Users\cheno\source\repos\ShellSort Estudiantes\ShellSort Estudiantes\obj\Debug\ShellSort Estudiantes.pdb
+C:\Users\usuario\Desktop\ShellSort Estudiantes\ShellSort Estudiantes\bin\Debug\ShellSort Estudiantes.exe.config
+C:\Users\usuario\Desktop\ShellSort Estudiantes\ShellSort Estudiantes\bin\Debug\ShellSort Estudiantes.exe
+C:\Users\usuario\Desktop\ShellSort Estudiantes\ShellSort Estudiantes\bin\Debug\ShellSort Estudiantes.pdb
+C:\Users\usuario\Desktop\ShellSort Estudiantes\ShellSort Estudiantes\obj\Debug\ShellSort Estudiantes.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\ShellSort Estudiantes\ShellSort Estudiantes\obj\Debug\ShellSort_Estudiantes.Form1.resources
+C:\Users\usuario\Desktop\ShellSort Estudiantes\ShellSort Estudiantes\obj\Debug\ShellSort_Estudiantes.Properties.Resources.resources
+C:\Users\usuario\Desktop\ShellSort Estudiantes\ShellSort Estudiantes\obj\Debug\ShellSort Estudiantes.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\ShellSort Estudiantes\ShellSort Estudiantes\obj\Debug\ShellSort Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ShellSort Estudiantes\ShellSort Estudiantes\obj\Debug\ShellSort Estudiantes.exe
+C:\Users\usuario\Desktop\ShellSort Estudiantes\ShellSort Estudiantes\obj\Debug\ShellSort Estudiantes.pdb
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 4\Programas H\ShellSort Estudiantes\ShellSort Estudiantes\bin\Debug\ShellSort Estudiantes.exe.config
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 4\Programas H\ShellSort Estudiantes\ShellSort Estudiantes\bin\Debug\ShellSort Estudiantes.exe
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 4\Programas H\ShellSort Estudiantes\ShellSort Estudiantes\bin\Debug\ShellSort Estudiantes.pdb
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 4\Programas H\ShellSort Estudiantes\ShellSort Estudiantes\obj\Debug\ShellSort Estudiantes.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 4\Programas H\ShellSort Estudiantes\ShellSort Estudiantes\obj\Debug\ShellSort_Estudiantes.Form1.resources
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 4\Programas H\ShellSort Estudiantes\ShellSort Estudiantes\obj\Debug\ShellSort_Estudiantes.Properties.Resources.resources
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 4\Programas H\ShellSort Estudiantes\ShellSort Estudiantes\obj\Debug\ShellSort Estudiantes.csproj.GenerateResource.cache
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 4\Programas H\ShellSort Estudiantes\ShellSort Estudiantes\obj\Debug\ShellSort Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 4\Programas H\ShellSort Estudiantes\ShellSort Estudiantes\obj\Debug\ShellSort Estudiantes.exe
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 4\Programas H\ShellSort Estudiantes\ShellSort Estudiantes\obj\Debug\ShellSort Estudiantes.pdb

@@ -1,0 +1,32 @@
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Listas Dobles\Listas Dobles\bin\Debug\Listas Dobles.exe.config
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Listas Dobles\Listas Dobles\bin\Debug\Listas Dobles.exe
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Listas Dobles\Listas Dobles\bin\Debug\Listas Dobles.pdb
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Listas Dobles\Listas Dobles\obj\Debug\Listas Dobles.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Listas Dobles\Listas Dobles\obj\Debug\Listas_Dobles.Form1.resources
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Listas Dobles\Listas Dobles\obj\Debug\Listas_Dobles.Properties.Resources.resources
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Listas Dobles\Listas Dobles\obj\Debug\Listas Dobles.csproj.GenerateResource.cache
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Listas Dobles\Listas Dobles\obj\Debug\Listas Dobles.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Listas Dobles\Listas Dobles\obj\Debug\Listas Dobles.exe
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Listas Dobles\Listas Dobles\obj\Debug\Listas Dobles.pdb
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Listas Dobles\Listas Dobles\bin\Debug\Listas Dobles.exe.config
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Listas Dobles\Listas Dobles\bin\Debug\Listas Dobles.exe
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Listas Dobles\Listas Dobles\bin\Debug\Listas Dobles.pdb
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Listas Dobles\Listas Dobles\obj\Debug\Listas Dobles.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Listas Dobles\Listas Dobles\obj\Debug\Listas_Dobles.Form1.resources
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Listas Dobles\Listas Dobles\obj\Debug\Listas_Dobles.Properties.Resources.resources
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Listas Dobles\Listas Dobles\obj\Debug\Listas Dobles.csproj.GenerateResource.cache
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Listas Dobles\Listas Dobles\obj\Debug\Listas Dobles.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Listas Dobles\Listas Dobles\obj\Debug\Listas Dobles.exe
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Listas Dobles\Listas Dobles\obj\Debug\Listas Dobles.pdb
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Listas Dobles\Listas Dobles\obj\Debug\Listas_Dobles.Resource1.resources
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Listas Dobles\Programa\Listas Dobles\obj\Debug\Listas Dobles.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Listas Dobles\Programa\Listas Dobles\obj\Debug\Listas_Dobles.Form1.resources
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Listas Dobles\Programa\Listas Dobles\obj\Debug\Listas_Dobles.Properties.Resources.resources
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Listas Dobles\Programa\Listas Dobles\obj\Debug\Listas Dobles.csproj.GenerateResource.cache
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Listas Dobles\Programa\Listas Dobles\obj\Debug\Listas Dobles.exe
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Listas Dobles\Programa\Listas Dobles\obj\Debug\Listas Dobles.pdb
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Listas Dobles\Programa\Listas Dobles\obj\Debug\Listas_Dobles.Resource2.resources
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Listas Dobles\Programa\Listas Dobles\bin\Debug\Listas Dobles.exe.config
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Listas Dobles\Programa\Listas Dobles\bin\Debug\Listas Dobles.exe
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Listas Dobles\Programa\Listas Dobles\bin\Debug\Listas Dobles.pdb
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad1\Listas Dobles\Programa\Listas Dobles\obj\Debug\Listas Dobles.csproj.CoreCompileInputs.cache

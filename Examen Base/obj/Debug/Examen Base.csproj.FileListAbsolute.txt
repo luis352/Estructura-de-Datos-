@@ -1,0 +1,20 @@
+C:\Users\usuario\Desktop\Examen Base\obj\Debug\Examen Base.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Examen Base\obj\Debug\Examen_Base.Form1.resources
+C:\Users\usuario\Desktop\Examen Base\obj\Debug\Examen_Base.Properties.Resources.resources
+C:\Users\usuario\Desktop\Examen Base\obj\Debug\Examen Base.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Examen Base\obj\Debug\Examen Base.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Examen Base\bin\Debug\Examen Base.exe.config
+C:\Users\usuario\Desktop\Examen Base\bin\Debug\Examen Base.exe
+C:\Users\usuario\Desktop\Examen Base\bin\Debug\Examen Base.pdb
+C:\Users\usuario\Desktop\Examen Base\obj\Debug\Examen Base.exe
+C:\Users\usuario\Desktop\Examen Base\obj\Debug\Examen Base.pdb
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Examen Base\bin\Debug\Examen Base.exe.config
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Examen Base\bin\Debug\Examen Base.exe
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Examen Base\bin\Debug\Examen Base.pdb
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Examen Base\obj\Debug\Examen Base.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Examen Base\obj\Debug\Examen_Base.Form1.resources
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Examen Base\obj\Debug\Examen_Base.Properties.Resources.resources
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Examen Base\obj\Debug\Examen Base.csproj.GenerateResource.cache
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Examen Base\obj\Debug\Examen Base.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Examen Base\obj\Debug\Examen Base.exe
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Examen Base\obj\Debug\Examen Base.pdb

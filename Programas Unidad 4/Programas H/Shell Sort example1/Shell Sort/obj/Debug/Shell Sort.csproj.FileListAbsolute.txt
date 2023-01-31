@@ -1,0 +1,10 @@
+C:\Users\cheno\source\repos\Shell Sort\Shell Sort\obj\Debug\Shell Sort.csproj.AssemblyReference.cache
+C:\Users\cheno\source\repos\Shell Sort\Shell Sort\obj\Debug\Shell_Sort.Form1.resources
+C:\Users\cheno\source\repos\Shell Sort\Shell Sort\obj\Debug\Shell_Sort.Properties.Resources.resources
+C:\Users\cheno\source\repos\Shell Sort\Shell Sort\obj\Debug\Shell Sort.csproj.GenerateResource.cache
+C:\Users\cheno\source\repos\Shell Sort\Shell Sort\obj\Debug\Shell Sort.csproj.CoreCompileInputs.cache
+C:\Users\cheno\source\repos\Shell Sort\Shell Sort\bin\Debug\Shell Sort.exe.config
+C:\Users\cheno\source\repos\Shell Sort\Shell Sort\bin\Debug\Shell Sort.exe
+C:\Users\cheno\source\repos\Shell Sort\Shell Sort\bin\Debug\Shell Sort.pdb
+C:\Users\cheno\source\repos\Shell Sort\Shell Sort\obj\Debug\Shell Sort.exe
+C:\Users\cheno\source\repos\Shell Sort\Shell Sort\obj\Debug\Shell Sort.pdb

@@ -1,0 +1,40 @@
+C:\Users\cheno\source\repos\ShellSort\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.exe
+C:\Users\cheno\source\repos\ShellSort\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.deps.json
+C:\Users\cheno\source\repos\ShellSort\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.runtimeconfig.json
+C:\Users\cheno\source\repos\ShellSort\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.runtimeconfig.dev.json
+C:\Users\cheno\source\repos\ShellSort\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.dll
+C:\Users\cheno\source\repos\ShellSort\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.pdb
+C:\Users\cheno\source\repos\ShellSort\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.csproj.AssemblyReference.cache
+C:\Users\cheno\source\repos\ShellSort\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cheno\source\repos\ShellSort\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.AssemblyInfoInputs.cache
+C:\Users\cheno\source\repos\ShellSort\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.AssemblyInfo.cs
+C:\Users\cheno\source\repos\ShellSort\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.csproj.CoreCompileInputs.cache
+C:\Users\cheno\source\repos\ShellSort\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.dll
+C:\Users\cheno\source\repos\ShellSort\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.pdb
+C:\Users\cheno\source\repos\ShellSort\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.genruntimeconfig.cache
+C:\Users\usuario\Desktop\ShellSort example2\bin\Debug\netcoreapp3.1\ShellSort.exe
+C:\Users\usuario\Desktop\ShellSort example2\bin\Debug\netcoreapp3.1\ShellSort.deps.json
+C:\Users\usuario\Desktop\ShellSort example2\bin\Debug\netcoreapp3.1\ShellSort.runtimeconfig.json
+C:\Users\usuario\Desktop\ShellSort example2\bin\Debug\netcoreapp3.1\ShellSort.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\ShellSort example2\bin\Debug\netcoreapp3.1\ShellSort.dll
+C:\Users\usuario\Desktop\ShellSort example2\bin\Debug\netcoreapp3.1\ShellSort.pdb
+C:\Users\usuario\Desktop\ShellSort example2\obj\Debug\netcoreapp3.1\ShellSort.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\ShellSort example2\obj\Debug\netcoreapp3.1\ShellSort.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\ShellSort example2\obj\Debug\netcoreapp3.1\ShellSort.AssemblyInfo.cs
+C:\Users\usuario\Desktop\ShellSort example2\obj\Debug\netcoreapp3.1\ShellSort.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ShellSort example2\obj\Debug\netcoreapp3.1\ShellSort.dll
+C:\Users\usuario\Desktop\ShellSort example2\obj\Debug\netcoreapp3.1\ShellSort.pdb
+C:\Users\usuario\Desktop\ShellSort example2\obj\Debug\netcoreapp3.1\ShellSort.genruntimeconfig.cache
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 4\Programas H\ShellSort example2\bin\Debug\netcoreapp3.1\ShellSort.exe
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 4\Programas H\ShellSort example2\bin\Debug\netcoreapp3.1\ShellSort.deps.json
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 4\Programas H\ShellSort example2\bin\Debug\netcoreapp3.1\ShellSort.runtimeconfig.json
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 4\Programas H\ShellSort example2\bin\Debug\netcoreapp3.1\ShellSort.runtimeconfig.dev.json
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 4\Programas H\ShellSort example2\bin\Debug\netcoreapp3.1\ShellSort.dll
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 4\Programas H\ShellSort example2\bin\Debug\netcoreapp3.1\ShellSort.pdb
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 4\Programas H\ShellSort example2\obj\Debug\netcoreapp3.1\ShellSort.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 4\Programas H\ShellSort example2\obj\Debug\netcoreapp3.1\ShellSort.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 4\Programas H\ShellSort example2\obj\Debug\netcoreapp3.1\ShellSort.AssemblyInfo.cs
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 4\Programas H\ShellSort example2\obj\Debug\netcoreapp3.1\ShellSort.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 4\Programas H\ShellSort example2\obj\Debug\netcoreapp3.1\ShellSort.dll
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 4\Programas H\ShellSort example2\obj\Debug\netcoreapp3.1\ShellSort.pdb
+C:\Users\usuario\Documents\DOCUMENTOS\TEC\5 semestre\Estructuras de datos\Unidad 4\Programas H\ShellSort example2\obj\Debug\netcoreapp3.1\ShellSort.genruntimeconfig.cache
